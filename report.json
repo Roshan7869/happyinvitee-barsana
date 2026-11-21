@@ -1,0 +1,14 @@
+{
+  "slug": "t_barsana",
+  "status": "ok",
+  "title": "Madhav weds Radhika",
+  "render_bytes": 139143,
+  "image_urls": 40,
+  "downloaded": 40,
+  "missing": [],
+  "config_keys": 53,
+  "injector_removed": false,
+  "local_images_loaded": 49,
+  "local_broken": [],
+  "js_errors": []
+}
